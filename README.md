@@ -26,4 +26,4 @@ Estamos utilizando as seguintes ferramentas para realização do trabalho:
 - Power BI;
 - Slack ;
 - Exel;
-- Jira;
+- Jira;          
