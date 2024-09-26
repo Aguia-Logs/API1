@@ -18,15 +18,15 @@ Millena |Power Point |[| mihlopesx](file:///C:\Users\Fatec\Documents\|%20mihlope
 
 Pollyana | Power Point |[Pollyanamds](file:///C:\Users\Fatec\Documents\Pollyanamds) | [linkedin.com/pollyana-dias](file:///C:\Users\Fatec\Documents\linkedin.com\pollyana-dias)
 
-A nossa proposta de aumentar a demanda de importação e exportação do aeroporto de São José dos Campos é uma iniciativa estratégica que pode trazer benefícios significativos para a região e para os operadores logísticos envolvidos, facilitando o processo e aumentado o volume de carga e descarga e na eficiência operacional.
+A nossa proposta é aumentar a demanda de importação e exportação do aeroporto de São José dos Campos, desenvolvendo uma estratégia que pode trazer benefícios significativos para a região e para os operadores logísticos envolvidos, facilitando o processo e aumentando o volume de carga e descarga, impactando possitivamente na eficiência operacional.
 
 Estamos utilizando as seguintes ferramentas para realização do trabalho:
 
 - Github;
 - Whatsapp;
 - PowerPoint;
-- Power BI;
-- Slack ;
+- PowerBI;
+- Slack;
 - Exel;
 - Jira;
 
