@@ -23,9 +23,17 @@ A nossa proposta de aumentar a demanda de importação e exportação do aeropor
 Estamos utilizando as seguintes ferramentas para realização do trabalho:
 
 - Github;
-- -Whatsapp;
+- Whatsapp;
 - PowerPoint;
 - Power BI;
 - Slack ;
 - Exel;
-- Jira;          
+- Jira;
+
+  Sprint 1: Metas,objetivos e plataformas:
+  
+  -Saber qual o objetivo do trabalho.
+
+  -Estruturar as plataformas.
+
+  -Organizar as ideias para a Sprint 2.
