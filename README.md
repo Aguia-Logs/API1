@@ -16,18 +16,18 @@ Leonardo | Jira | [Leo695](file:///C:\Users\Fatec\Documents\Leo695) | <https://w
 
 Millena |Power Point |[| mihlopesx](file:///C:\Users\Fatec\Documents\|%20mihlopesx) | <https://www.linkdin.com/in/milena-lopes-97b884311?utm_campaign=share_via&utm_campaign=share_via&utm-campaign=share_via&utm_content=profile&utm_medium=android_app>
 
-Pollyana | Power Point |[Pollyanamds](file:///C:\Users\Fatec\Documents\Pollyanamds) | [linkedin.com/pollyana-diasfile:///C:\Users\Fatec\Documents\linkedin.com\pollyana-dias)]
+Pollyana | Power Point |[Pollyanamds](file:///C:\Users\Fatec\Documents\Pollyanamds) | <https://www.linkedin.com/pollyana-diasfile:///C:\Users\Fatec\Documents\linkedin.com\pollyana-dias>
 
 A nossa proposta é aumentar a demanda de importação e exportação do aeroporto de São José dos Campos, desenvolvendo uma estratégia que pode trazer benefícios significativos para a região e para os operadores logísticos envolvidos, facilitando o processo e aumentando o volume de carga e descarga, impactando possitivamente na eficiência operacional.
 
 Estamos utilizando as seguintes ferramentas para realização do trabalho:
 
-- Github;
-- Whatsapp;
+- GitHub;
+- WhatsApp;
 - PowerPoint;
 - PowerBI;
 - Slack;
-- Exel;
+- Excel;
 - Jira;
 
   # Metas,objetivos e plataformas:
