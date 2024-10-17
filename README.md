@@ -37,7 +37,6 @@ Estamos utilizando as seguintes ferramentas para realização do trabalho:
 
 - Mapear cada fonte de dados originais;
 - Identificação dos dados;
-- Aprendizado Power Bi;
 - Relacionar os Dados do Power Bi;
 - Dash Board Sprint 1;
 - Atualizar os dados no Jira;
@@ -49,7 +48,6 @@ Estamos utilizando as seguintes ferramentas para realização do trabalho:
 
 - Atualização Jira;
 - Atualização Guithub;
-- Aprendizado Power Bi;
 - Estudar construção dashoboard sprint 2;
 - Identificar os 5 primeiros municipios do vale com maior quociente valor-peso;
 - Filtrar as cidades de um raio de 200km em torno do aeroporto SJK;
@@ -61,7 +59,6 @@ Estamos utilizando as seguintes ferramentas para realização do trabalho:
 # Sprint 3:
 
 - Apresentação dos Dados no Guithub;
-- Aprendizado do Power Bi;
 - Análise valor-peso e produtos e a satisfação do cliente;
 - Análise dos municípios potenciais perto do Aeroporto de SJK;
 - Atualização dos dados no Jira;
