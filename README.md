@@ -69,3 +69,7 @@ Estamos utilizando as seguintes ferramentas para realização do trabalho:
 - Dashboard do Sprint 2.
 - Finalizaçaõ do trablho do API.
 - Apresentaçaõ final da Sprint 3.
+
+
+Sobre o trabalho: 
+O trabalho tem como finalidade definir quias sãõ os produtos mais viaves para o aoroporto de São José dos Campos (SJK). E para o fazer o trabalho 
