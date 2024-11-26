@@ -72,4 +72,4 @@ Estamos utilizando as seguintes ferramentas para realização do trabalho:
 
 
 Sobre o trabalho: 
-O trabalho tem como finalidade definir quias sãõ os produtos mais viaves para o aoroporto de São José dos Campos (SJK). E para o fazer o trabalho 
+O trabalho tem como finalidade definir quais sãõ os produtos mais viaveis para o aoroporto de São José dos Campos (SJK). Para realizar o trabalho foi feito diversas pesquisas no Comex Stat verificando as tabelas.
