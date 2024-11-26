@@ -67,3 +67,5 @@ Estamos utilizando as seguintes ferramentas para realização do trabalho:
 - Estudar construção de dashboard sprint 2;
 - Estudar a infraestrutura e o potencial do aeroporto de SJK o transporte Aéreo;
 - Dashboard do Sprint 2.
+- Finalizaçaõ do trablho do API.
+- Apresentaçaõ final da Sprint 3.
